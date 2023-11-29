@@ -1,0 +1,21 @@
+{
+  "name": "chatbot29nov",
+  "version": "1.0.0",
+  "description": "This is a nodejs OPENAI chatbot that allows you to chat with pdf file.",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "faiss-node": "^0.2.1",
+    "langchain": "^0.0.95",
+    "pdf-parse": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

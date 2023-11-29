@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/vectorstore/faiss.index
+/vectorstore/docstore.json
+frontend/node_modules
+
